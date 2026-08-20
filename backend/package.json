@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/api/index.js"
+    "dev": "nodemon ./src/api/index.js",
+    "start": "node ./src/api/index.js"
   },
   "keywords": [],
   "author": "",
